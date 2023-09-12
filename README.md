@@ -14,10 +14,8 @@ Voltado para a orientação de novos usuários do Git e GitHub para que assim po
 É uma plataforma online que permite hospedar projetos Git e colaborar com outras pessoas.
 
 ### 🚶‍♂️Passo a Passo
-- Configurando o Git
 - Criação de repositórios
 - Clonagem de repositórios
-
 
 ## Links 
 [Guia básico de markdown ](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
